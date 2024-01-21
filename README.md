@@ -39,4 +39,4 @@ I'm a Computer Engineering student passionate about technology, programming, and
 
 ---
 
-⭐️ From [numoh](https://github.com/numoh)
+⭐️ From [Nuh](https://github.com/numoh)
