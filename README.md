@@ -26,8 +26,8 @@ I'm a Computer Engineering student passionate about technology, programming, and
 <!-- ## 📚 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Title of Your Blog Post](Link to Blog Post)
-- [Title of Another Blog Post](Link to Another Blog Post)
+<!-- - [Title of Your Blog Post](Link to Blog Post) -->
+<!-- - [Title of Another Blog Post](Link to Another Blog Post) -->
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 How to Reach Me
