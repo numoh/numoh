@@ -4,12 +4,12 @@
 
 I'm a Computer Engineering student passionate about technology, programming, and innovation. I love building things that make a difference and am always eager to learn new skills and technologies.
 
-- 🔭 I’m currently working on Medical-Chatbot-KTH
+- 🔭 I’m currently working on Langchain-Chatbot-KTH
 <!-- - 🌱 I’m currently learning [Technology or Skill] -->
 <!-- - 👯 I’m looking to collaborate on [Type of Projects] -->
 <!-- - 🤔 I’m looking for help with [Topic or Project] -->
 <!-- - 💬 Ask me about [Technology, Tools, or Topics you're comfortable with] -->
-<!-- - ⚡ Fun fact: I can solve a Rubik's Cube in under two minutes, and I'm still trying to beat my record! -->
+⚡ Fun fact: I can solve a Rubik's Cube in under five minutes, and I'm still trying to beat my record!
 
 ## 🛠 Skills
 
