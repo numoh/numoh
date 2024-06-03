@@ -4,7 +4,7 @@
 
 I'm a Computer Engineering student passionate about technology, programming, and innovation. I love building things that make a difference and am always eager to learn new skills and technologies.
 
-- 🔭 I’m currently working on Langchain-Chatbot-KTH
+- 🔭 I’m currently working on a database recommender.
 <!-- - 🌱 I’m currently learning [Technology or Skill] -->
 <!-- - 👯 I’m looking to collaborate on [Type of Projects] -->
 <!-- - 🤔 I’m looking for help with [Topic or Project] -->
