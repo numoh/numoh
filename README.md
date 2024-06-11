@@ -30,11 +30,6 @@ I'm a Computer Engineering student passionate about technology, programming, and
 <!-- - [Title of Another Blog Post](Link to Another Blog Post) -->
 <!-- BLOG-POST-LIST:END -->
 
-## 📫 How to Reach Me
-
-- LinkedIn: [Nuh Jama](https://www.linkedin.com/in/nuhjama/)
-- Email: [numoh.55@gmail.com](mailto:numoh.55@gmail.com)
-
 <!-- Optional: Any other social media or websites -->
 
 ---
