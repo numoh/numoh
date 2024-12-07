@@ -13,8 +13,8 @@ I'm a Computer Engineering student passionate about technology, programming, and
 
 ## 🛠 Skills
 
-- Languages: C, C#, Java, JavaScript, Swift, MATLAB, Assembly
-- Frameworks: React, Node.js, Spring Boot, Hibernate, ASP.NET, SwiftUI, 
+- Languages: C, C++, C#, Java, JavaScript, Swift, MATLAB, Assembly
+- Frameworks: React, Node.js, Spring Boot, Hibernate, ASP.NET, SwiftUI
 - Tools & Technologies: Git, Docker, Kubernetes, Google Cloud Platform (GCP)
 - Databases: MySQL, MongoDB, PostgreSQL, TimescaleDB, ClickHouse
 - Other: Data Structures, Algorithms, Machine Learning, Software Development Practices 
